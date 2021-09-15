@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MVPGen2</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Login">Log in</string>
+    <string name="Or">Or</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Username">Username</string>
+    <string name="Name">Name</string>
+    <string name="listBarang">Barang1</string>
+    <string name="nameitem">Item name</string>
+    <string name="Kode">Kode</string>
+    <string name="Save">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="additem">Add Item</string>
+    <string name="UpdateItem">Update Item</string>
+    <string name="Update">Update</string>
+</resources>
